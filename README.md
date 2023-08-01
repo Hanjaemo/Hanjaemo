@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <a href="https://velog.io/@hjm2530"><img src="https://img.shields.io/badge/velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hjm2530"/> 
 
 ---
-<h3>🧑🏻‍💻 Activity</h3>
+<h3>💬 Languages</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hanjaemo&theme=gruvbox&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
