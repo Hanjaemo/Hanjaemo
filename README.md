@@ -20,11 +20,6 @@ Here are some ideas to get you started:
 &nbsp; <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white"> 
 
 ---
-<h3>👇 Follow me</h3>
-
-<a href="https://velog.io/@hjm2530"><img src="https://img.shields.io/badge/velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hjm2530"/> 
-
----
 <h3>💬 Languages</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hanjaemo&theme=gruvbox&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
